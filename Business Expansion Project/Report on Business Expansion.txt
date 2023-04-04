@@ -1,0 +1,745 @@
+Problem statement
+Eurosport Company
+
+Eurosport Co. is looking into expanding to the international market.
+
+Where should Eurosport Co. expand and why?
+
+Problem 1
+Problem statement
+What is the company's online sales performance based on region and country?
+
+Understanding
+Analyzing the online sales performance will provide an insight regarding overseas customers' sentiment on the brand. A strong sales performance indicates that there is customer demand and by expanding to the country can help in sales and reduce cost on branding and marketing.
+
+Problem 2
+Problem statement
+Based on the potential top 5 countries chosen, what are the economic condition of the top 7 potential countries - Australia, Mexico, Brazil, China and India.
+
+Understanding
+Understanding the economic potential provides an indication on how well the country's economy is performing, population's spending likelihood. This provides an insight on the potential customer's willingness to spend money.
+
+Problem 3
+Problem statement
+Who are the potential competitors for the company and how are they performing?
+
+Understanding
+To conduct a competitive analysis on who are the potential companies are in the targeted market will help us strategize in segmenting our target market and marketing strategies.
+
+Results
+Executive Summary
+This report is to provide the analysis of the company's targeted expansion country. Based on the analysis, it is recommended that the company should expand to Australia due to the growing potential of the Pacific Asia region in the world economy, Australia's strong local purchasing power index and the low number of competitions in the sports apparelt industry. Below are the report from the analysis:
+
+Problem 1
+Based on the analysis conducted, besides Europe, the best performing region are the Latin America and Pacific Asia regions. This indicates that there is a potential to grow even further in these markets especially in the Pacific Asia region. The Pacific Asia region is a growing market with a satisfactory sales and profit per order. By excluding the European region, both the Latin America and Pacific Asia are the second and third largest market with a 29% and 21% in total sales and volume of sales as seen below:
+
+Volume of sales:
+
+Market	Order Id	Proportion
+Africa	10106	0.07
+Europe	43515	0.28
+LATAM	45311	0.29
+Pacific Asia	32631	0.21
+USCA	22522	0.15
+Total sales:
+
+Market	Total Sales	Proportion
+Africa	1786426.39	0.06
+Europe	8114249.50	0.29
+LATAM	8114668.74	0.29
+Pacific Asia	5803520.65	0.21
+USCA	3966805.20	0.14
+The analysis is then further dissected to identify which countries are contributing to the sales. To have a targeted analysis, the top 5 countries based on total sales have been chosen to conduct a further analysis. On a profit basis, LATAM is making the most due to various factors. The countries from both LATAM and Pacific Asia that has been contributing to the sales are Mexico, Brazil, Australia, China and India.
+
+Problem 2
+Upon identifying the potential countries that the company can decide to expand to, further analysis on the countries' demographic and economic condition have been conducted to identify the market fit.
+
+It is found that out of the 5 countries analyzed, Australia has the highest cost of living index (75.89) and local purchasing power index (103.38) as compared to the rest of the 4 countries. The high cost of living indicates that expenses on goods and services for the country is higher than the average. Although this may assume that a high cost of living index would hinder customer spending, it can also be seen as the relative affordability and standard of living of the people in the country. It can be an indicator that the country has the target market that can afford products provided by our company.
+
+Furthermore, the local purchasing power index can be an indication on the strength of the consumers' purchasing power. A high purchasing power means consumers in the country potentially have a high willingness to spend that will be beneficial to the company should the company expand to the country.
+
+Majority of the population in all 5 countries are in the 15 to 64 years category. This means there is a stronger purchasing power because a large proportion of population in this age group are working. This would mean that there will be constant disposable income where the population will have a willingness to spend. For the entry into the Pacific Asia as a start, Australia would be a good start and then followed by China and India.
+
+Problem 3
+Based on the dataset available, a quick competitive landscape was conducted on the sales of sports product Australia. The results tells us that Adidas and Nike were the dominating brand offering sports apparel and products.
+
+There is also a discovery on other sports apparel brands distributed by third party distributors known as noon and Namshi on an overall market basis. From the analysis, the number of competitors in the market are not overwhelming to a point that it has saturated the market. The low number of competitors provides a signal there are certainly opportunities for the company to expand. With the right positioning, the company will be able to capture the target market.
+
+In both analysis, Adidas is the dominating brand in the sport apparel industry.
+
+Adidas has been dominating the industry mainly in the Mens category as seen below:
+
+Chain	Category	Total Units
+Adidas	Accessories	290789
+Equipment	139890
+Juniors	470837
+Kids	201057
+Mens	663443
+Shoes	292503
+Womens	151953
+This is something for the company to consider to see which category the product team should focus on when entering the market because it will be costly to compete against a dominating brand's strong products. It will take time for consumers to switch over to a new product from a new brand. Therefore, the product mix to enter the market needs to be unique and has novelty that other competitors had not done before.
+
+Assumptions made
+You will often work with limited information. This might be because you don't have the time to gather the needed, or because the information is not available. It is ok to make assumptions, but it needs to be made clear that you did so and why.
+
+State any assumptions and the reasons they were made here.
+
+Problem 1
+1) It is assumed that the dataset utilized for this is the full representative of the company's online commerce channel and that the company does not rely on any third party e-commerce platform such as Amazon.
+
+2) Assuming that the company's brand already has a brand presence in the targeted country market. It is assumed that the expansion is not an entirly new entry to market but a further investment to expand the brand to the country to reach to more new customers.
+
+Problem 2
+1) The assumption used in solving this problem is that the local purchasing index is a representation of the customer's willingness to pay and spend.
+
+2) Assuming that the cost of living index provides insight into the relative affordability of the country and that the population are on the wealthier side.
+
+3) Assuming the company is providing premium quality of sports clothes and therefore is targeting a high end customer for expansion.
+
+Problem 3
+1) Dataset of other brands are assumed to be the representation of the competitive landscape.
+
+2) It is also assumed that the company is not in the list of any of the brands in the dataset.
+
+Limitations
+In most cases your answers to the business questions will have some limitations. They might for example not be generalizable, but only valid for a certain case. Describe any limitations your results have.
+
+Problem 1
+The conclusion in this problem is only limited to the available dataset and may not represent the company's full sales portfolio. Some year of sales were not available in the dataset possible due to no market at the region yet. However, there was sales data for the year 2017 in every region and an analysis conducted showed that excluding Europe, LATAM and the Pacific Asia still performed better than the Africa and USCA region.
+
+There are no information on tax and business regulations that could change the company's expansion strategy because some regulations may not be aligned with the company's DNA.
+
+Problem 2
+The conclusion is only limited to the cost of living index and local purchasing power index to determine the health of the country's economic conditions. There are other factors that should also be included in the analysis to further strengthen the conclusion.
+
+The data is only up to 2020 and does not have further details on the impact of COVID-19 on the cost of living index and local purchasing power index.
+
+Age structure was not split into smaller bins to have a better representation on the population segment by age.
+
+Problem 3
+The data is only limited to the Australia chain information and noon data. There may be other datasets that can provide a wider scope on the competitive analysis.
+
+Data
+In this section you need to describe the data used, its sources, data quality, data constraints and the results of your EDA. This is likely one of the longer sections as it needs to go into detail here. It is important that the reader of your report is able to follow your thinking. Any code cells need to be executable top-to-bottom.
+
+For each dataset the following should be answered:
+
+Why was this dataset used?
+For which problems was it used?
+Data source including link/code to get the data. Timestamps if the data is a snapshot.
+EDA
+Data quality
+constraints on the data
+Dataset used
+World Bank This data set provides information on the demographic and economic factors of each country that will provide an overview understanding of every country's overall performance. Files used from this World Bank dataset are: i) Coutries age strucutre ii) Cost of living index by country 2020
+
+This dataset was utilized for Problem 2.
+
+Data source: 'A1/World Bank'
+
+Australia Chains This data provides a glimpse of other sports clothes companies operating in Australia. It provides some information regarding the current company's competitor in the overseas market.
+
+Data source: 'A1/AustraliaChains.xlsx'
+
+DataCoSupplyChainDataset This data provides information on items sold to different countries and regions which can provide a snapshot of the company's online channel performance and how well known the brand is to other countries out of Europe.
+
+Data source: 'A1/DataCoSupplyChainDataset.csv'
+
+Unused dataset
+untitled folder: Most information in this file is relating to the US market which is not the target market.
+
+NAICS: Most information in this file is relating to the US market which is not the target market.
+
+Business and Industry Report: Most information in this file is relating to the Us market which is not the target market.
+
+Sales Transaction v.4a: This dataset has a information not relating to sports clothes which makes it irrelevant for our analysis.
+
+Sale Report: Incomplete information as SKU code does not indicate anything.
+
+NBA Finals and MVP: No relevant information to help in analysis.
+
+metadata: US related information which is not helpful in the analysis.
+
+May-2022: Sales information not related to sports clothes
+
+cost-of-living_v2: World Bank data is already sufficient enough to provide information on the countries' cost of living.
+
+zara_us_sample_data.json: Only have information about Zara products which is not helpful in the analysis.
+
+International sale Report.csv: Random information regarding sale of apparels to various customers which does not indicate it is our company's data.
+
+glassdoor_jobs.csv: Information regarding occupation as data analysts or data scientists that does not add value to the analysis.
+
+amazon_co-ecommerce_sample.csv: Data on products sold in Amazon that does not add value to the analysis.
+
+Amazon Sale Report.csv: Amazon sale report of apparels in India that is not related to sports clothing which is irrelevant to the analysis.
+
+2012 Retail Sales by Store Type within Product Category.csv: This data is backed in 2012 which is not relevant for the current analysis.
+
+Dataset 1
+# import packages
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from tabulate import tabulate
+from IPython.display import Image
+# to import DataCoSupplyChainDataset
+file = 'DataCoSupplyChainDataset.csv'
+
+# read DataCoSupplyChainDataset csv file
+supply_chain_o = pd.read_csv(file, index_col=0, encoding = 'ANSI')
+
+# to create a copy of the dataset to ensure the original copy is maintained
+supply_chain_copy = supply_chain_o.copy()
+
+# to call the supply_chain_copy dataframe
+supply_chain_copy
+# to obtain the number of rows and columns
+supply_chain_copy.shape
+# to obtain the information on the columns and dtypes
+supply_chain_copy.info()
+# to obtain the datatypes of each column
+print(supply_chain_copy.dtypes)
+# to describe the summary statistics
+supply_chain_copy.describe()
+# to drop Order Zipcode and Product Description columns
+supply_chain_copy = supply_chain_copy.drop(['Order Zipcode', 'Product Description'], axis = 1)
+# to obtain supply chain info after dropping columns
+supply_chain_copy.info()
+# to create unique_category list
+unique_category = supply_chain_copy['Category Name'].unique()
+
+# for loop to call out unique category
+for category in unique_category:
+    print(category)
+# slice for shipping date column information
+supply_chain_copy['shipping date (DateOrders)']
+
+# rename column as Order Date
+supply_chain_copy = supply_chain_copy.rename(columns = {'shipping date (DateOrders)':
+                                                       'Order Date'})
+
+# call for output after renaming
+supply_chain_copy.info()
+Dataset 2
+# to import cost of living index by countries 2020
+
+# create file path
+file = "World Bank/2020-cost-of-living/cost of living 2020.csv"
+
+# load csv file
+wb_livingcost = pd.read_csv(file)
+
+# obtain the first 5 rows of the file
+wb_livingcost.head()
+# to explore cost of living dataset info and identify datatypes and null values
+wb_livingcost.info()
+# drop the last column - Unnamed: 9
+wb_livingcost = wb_livingcost.drop(['Unnamed: 9'], axis=1)
+
+# to load info after dropping the last columm
+wb_livingcost.info()
+# to identify the number of rows and columns
+wb_livingcost.shape
+# explore countries age structure dataset
+file = 'World Bank/countries-dataset-2020/Coutries age structure.csv'
+
+# read age_structure csv
+age_structure = pd.read_csv(file)
+
+# obtain age_structure output
+age_structure
+# to explore the number of rows and columns in the dataset
+age_structure.shape
+# to explore age_structure information and data types
+age_structure.info()
+# convert datatypes on age from strings to float and break it down to decimal
+age_structure[['Age 0 to 14 Years', 'Age 15 to 64 Years', 'Age above 65 Years']] = \
+age_structure[['Age 0 to 14 Years', 'Age 15 to 64 Years', 'Age above 65 Years']].apply(
+lambda x: x.str.rstrip('%').astype(float) / 100)
+
+# to obtain the newly modified dataframe
+age_structure
+Dataset 3
+# load AustraliaChains dataset
+file = 'AustraliaChains.xlsx/AustraliaChains.xlsx'
+
+# to load csv file
+australia_chains = pd.read_excel(file)
+# to explore first 5 rows of dataset
+australia_chains.head()
+# explore info and data types of the dataset
+australia_chains.info()
+# data cleaning by dropping unwanted columns
+australia_chains.drop(columns = ['Postcode', 'Unnamed: 7', 'Unnamed: 8'], inplace=True)
+# identify unique chains in the dataset
+australia_chains['Chain'].unique()
+# identify unique categories distributed in the dataset
+australia_chains['Category'].unique()
+# create list to exclude unwanted categories in problem solving section
+categories_exclude = ['Home', 'Groceries', 'Hosiery']
+# load noon dataset
+
+# create file path
+file = 'noon.csv'
+
+# read csv file
+distributor = pd.read_csv(file)
+# to identify the first 5 rows of the data
+distributor.head()
+# to explore distributor info and data types
+distributor.info()
+# to explore the amount of rows and columns in the distributor dataset
+distributor.shape
+# to understand the summary of statistics of the distributor dataset
+distributor.describe()
+# to identify the unique brands in the distributor file
+distributor['brand'].unique()
+Problem Solving
+This section needs to guide throught the problem solving process and make it clear how the results have been derived from the data. It should also contain executable code for everything that is code based. Code cells need to be executable top-to-bottom and be well commented.
+
+Problem 1
+# categories to exclude from the dataset
+categories_to_exclude = ['Electronics', 
+                        'Trade-In',
+                        'Consumer Electronics',
+                        'Cameras',
+                        'Computers',
+                        'Crafts',
+                        'AS Seen on TV!',
+                        'Fishing',
+                        'Books',
+                        'DVDs',
+                        'CDs',
+                        'Garden',
+                        'Pet Supplies',
+                        'Health and Beauty',
+                        'Music',
+                        'Video Games',
+                        'Toys']
+                        
+# create a new order_data dataframe to only include market, order region, order state, sales and category name                        
+order_data = supply_chain_copy.loc[~supply_chain_copy['Category Name'].isin(categories_to_exclude),
+                                   ['Market', 
+                                    'Order Region', 
+                                    'Order State',
+                                    'Order Id',
+                                    'Order Country',
+                                    'Category Name', 
+                                    'Sales',
+                                    'Order Date',
+                                    'Order Profit Per Order']]
+
+# to obtain summary statistics of order data
+order_data.describe()
+# extract year from Order Date column
+order_data['year'] = pd.to_datetime(order_data['Order Date']).dt.year
+
+# call for order data output after extracting year 
+order_data
+# mean, median, kurtosis and skewness of sales
+
+order_sales_mean = round(order_data['Sales'].mean(),2)
+
+order_sales_median = round(order_data['Sales'].median(),2)
+
+order_sales_kurt = round(order_data['Sales'].kurt(),2)
+
+order_sales_skew =round(order_data['Sales'].skew(),2)
+
+# print output
+print(order_sales_mean)
+print(order_sales_median)
+print(order_sales_kurt)
+print(order_sales_skew)
+# group total sales by year and market
+total_sales_per_year = order_data.groupby(['Market', 'year'])['Sales'].sum()
+
+# call for output of total_sales_per_year
+total_sales_per_year
+
+# convert to a DataFrame
+sales_df = total_sales_per_year.to_frame().reset_index()
+
+# call for sales_df output
+sales_df
+# group total sales by market 
+total_sales = order_data.groupby(['Market'], as_index=False)['Sales'].sum()
+
+# to ensure float number is displayed
+pd.options.display.float_format = '{:.2f}'.format
+
+# to create output of total sales
+total_sales.head()
+# group average sales by market 
+average_sales = order_data.groupby(['Market'], as_index=False)['Sales'].mean()
+
+# create out put for average sales after calculating the average
+average_sales.head()
+# to merge total and average sales
+merged_avg_total = pd.merge(total_sales, average_sales, on='Market')
+
+# to rename column names
+merged_avg_total = merged_avg_total.rename(columns = {'Sales_x': 'Total Sales',
+                        'Sales_y': 'Average Sales'})
+
+# output after renaming the column
+merged_avg_total
+# calculate sales proportion of market
+merged_avg_total['Total Sales Proportion'] = merged_avg_total['Total Sales']/merged_avg_total['Total Sales'].sum()
+
+# output on dataframe
+merged_avg_total
+# sales in year 2017
+sales_2017 = sales_df.loc[sales_df['year'] == 2017]
+
+# output of sales 2017 dataframe
+sales_2017
+Appendix 1
+
+# plot bar chart of total sales in 2017
+
+# plot x-axis and y-axis
+x = sales_2017['Market']
+y = sales_2017['Sales']
+
+# plot horizontal bar chart
+plt.barh(x, y)
+
+# add x and y labels
+plt.xlabel('Market')
+plt.ylabel('Sales')
+
+# name chart title
+plt.title('Total Sales by Region in 2017')
+
+# plot output
+plt.show()
+Appendix 2
+
+# plot bar chart of total sales and average sales
+fig, ax1 = plt.subplots()
+
+# plot first y-axis - total sales (left)
+ax1.bar(merged_avg_total['Market'], merged_avg_total['Total Sales'], color='turquoise')
+ax1.set_ylabel('Total Sales')
+
+# create second y-axis - average sales (right)
+ax2 = ax1.twinx()
+
+# plot second y-axis
+ax2.plot(merged_avg_total['Market'], merged_avg_total['Total Sales'], color= 'red', marker='o')
+ax2.set_ylabel('Average Sales')
+
+# set title and x-axis label
+ax1.set_title('Total Sales and Average Sales by Market')
+ax1.set_xlabel('Market')
+
+# display plot
+plt.show()
+# calculate the volume of orders by Market using groupby
+total_orders = order_data.groupby(['Market'], as_index=False)['Order Id'].count()
+
+# to ensure format of output is readable float form
+pd.options.display.float_format = '{:.2f}'.format
+
+# calling the output of total_orders
+total_orders
+# overall total orders by Order ID count
+overall_total_orders = order_data['Order Id'].count()
+
+# add proportion column to understand the distribution of the order volumes
+total_orders['Proportion'] = total_orders['Order Id']/overall_total_orders
+
+# load output of total_orders after calculation of proportion
+total_orders
+# rename Order Id in total_orders dataframe
+total_orders_new = total_orders.rename(columns = {'Order Id': 'Total Orders'})
+
+# load output of total_orders_new dataframe
+total_orders_new
+Appendix 3
+
+# plot bar chart of total orders and proportion of orders distribution
+fig, ax1 = plt.subplots()
+
+# plot first y-axis - total orders (left)
+ax1.bar(total_orders_new['Market'], total_orders_new['Total Orders'], color='pink')
+ax1.set_ylabel('Total Order')
+
+# create second y-axis- average sales (right)
+ax2 = ax1.twinx()
+
+# plot second y-axis
+ax2.plot(total_orders_new['Market'], total_orders_new['Proportion'], color= 'black', marker='o')
+ax2.set_ylabel('Proportion Distribution')
+
+# set title and x-axis label
+ax1.set_title('Total Orders and Proportion of Total Orders Distribution by Market')
+ax1.set_xlabel('Market')
+
+# display plot
+plt.show()
+# calculate profit per order
+total_profit = round(order_data['Order Profit Per Order'].sum(),2)
+
+# load output of total profit calculation
+total_profit
+# total profit by market
+by_market_profit = order_data.groupby(['Market'], as_index=False)['Order Profit Per Order'].sum()
+
+# total profit by market
+by_market_profit
+# total sales by countries in pacific asia region
+LATAM_PA_sales = order_data[(order_data['Market'] == 'Pacific Asia')| 
+                (order_data['Market'] =='LATAM')].groupby(['Order Country'],
+                 as_index=False)['Sales'].sum()
+
+# sort sales by country from maximum 
+LATAM_PA_sales = LATAM_PA_sales.sort_values(by='Sales', ascending=False)
+
+# load output of sales
+LATAM_PA_sales
+# list of countries in the pacific asia
+
+LATAM_PA_countries = order_data[(order_data['Market'] == 'Pacific Asia') | 
+                               (order_data['Market'] == 'LATAM')]
+
+# identify unique country list
+LATAM_PA_countries = LATAM_PA_countries['Order Country'].unique().tolist()
+
+# load output of unique country list
+LATAM_PA_countries
+# dictionary that maps non-English country names to English names
+country_dict = {
+ 'Indonesia': 'Indonesia',
+ 'India': 'India',
+ 'Australia': 'Australia',
+ 'China': 'China',
+ 'Japón': 'Japan',
+ 'Corea del Sur': 'South Korea',
+ 'Singapur': 'Singapore',
+ 'Turquía': 'Turkey',
+ 'Mongolia': 'Mongolia',
+ 'Guatemala': 'Guatemala',
+ 'El Salvador': 'El Salvador',
+ 'Panamá': 'Panama',
+ 'República Dominicana': 'Dominican Republic',
+ 'Venezuela': 'Venezuela',
+ 'Colombia': 'Colombia',
+ 'Honduras': 'Honduras',
+ 'Brasil': 'Brazil',
+ 'México': 'Mexico',
+ 'Uruguay': 'Uruguay',
+ 'Argentina': 'Argentina',
+ 'Cuba': 'Cuba',
+ 'Perú': 'Peru',
+ 'Nicaragua': 'Nicaragua',
+ 'Ecuador': 'Ecuador',
+ 'Israel': 'Israel',
+ 'Nueva Zelanda': 'New Zealand',
+ 'Bangladés': 'Bangladesh',
+ 'Tailandia': 'Thailand',
+ 'Irak': 'Iraq',
+ 'Arabia Saudí': 'Saudi Arabia',
+ 'Filipinas': 'Philippines',
+ 'Kazajistán': 'Kazakhstan',
+ 'Irán': 'Iran',
+ 'Myanmar (Birmania)': 'Myanmar',
+ 'Uzbekistán': 'Uzbekistan',
+ 'Trinidad y Tobago': 'Trinidad y Tobago',
+ 'Afganistán': 'Afghanistan',
+ 'Pakistán': 'Pakistan',
+ 'Vietnam': 'Vietnam',
+ 'Malasia': 'Malaysia',
+ 'Bolivia': 'Bolivia',
+ 'Chile': 'Chile',
+ 'Yemen': 'Yemen',
+ 'Kirguistán': 'Kyrgzstan',
+ 'Georgia': 'Georgia',
+ 'Nepal': 'Nepal',
+ 'Emiratos Árabes Unidos': 'United Arab Emirates',
+ 'Camboya': 'Cambodia',
+ 'Haití': 'Haiti',
+ 'Laos': 'Laos',
+ 'Costa Rica': 'Costa Rica',
+ 'Jamaica': 'Jamaica',
+ 'Barbados': 'Barbados',
+ 'Tayikistán': 'Tajikistan',
+ 'Siria': 'Syria',
+ 'Guadalupe': 'Guadalupe',
+ 'Papúa Nueva Guinea': 'Papua New Guinea',
+ 'Azerbaiyán': 'Azerbaijan',
+ 'Turkmenistán': 'Turkmenistan',
+ 'Paraguay': 'Paraguay',
+ 'Jordania': 'Jordania',
+ 'Martinica': 'Martinica',
+ 'Qatar': 'Qatar',
+ 'Omán': 'Oman',
+ 'Hong Kong': 'Hong Kong',
+ 'Guyana': 'Guyana',
+ 'Guayana Francesa': 'French Guiana',
+ 'Taiwán': 'Taiwan',
+ 'Sri Lanka': 'Sri Lanka',
+ 'Líbano': 'Lebanon',
+ 'Surinam': 'Suriname',
+ 'Belice': 'Belize',
+ 'Armenia': 'Armenia',
+ 'Kuwait': 'Kuwait',
+ 'Bután': 'Bhutan',
+ 'Baréin': 'Bahrain'   
+}
+
+# replace Spanish names to English
+LATAM_PA_sales['Order Country'] = LATAM_PA_sales['Order Country'].replace(country_dict)
+
+# load top 10 countries
+LATAM_PA_sales.head(10)
+Problem 2
+# to filter countries to be analyzed 
+selected_countries = ['Mexico', 'Brazil', 'Australia', 'China', 'India']
+
+# to select only the top 5 countries for analysis
+wb_countries = wb_livingcost.loc[wb_livingcost['Country'].isin(selected_countries)]
+
+# to merge with data from the age_structure data frame
+merged_df = wb_countries.merge(age_structure, on='Country')
+
+# to understand the dataset
+merged_df.info()
+# call out output of the merged dataframe
+merged_df.head()
+# to review overall summary of statistics of the merged dataframe
+merged_df.describe()
+Appendix 4
+
+# plot bar chart for country's cost of living index and local purchasing power
+
+fig, ax1 = plt.subplots()
+
+# plot first y-axis - cost of living index (left)
+ax1.bar(merged_df['Country'], merged_df['Cost of Living Index'], color='orange')
+ax1.set_ylabel('Cost of Living Index')
+
+# plot second y-axis- = local purchasing power index (right)
+ax2 = ax1.twinx()
+
+# plot second y-axis
+ax2.plot(merged_df['Country'], merged_df['Local Purchasing Power Index'], color='green',
+         marker='o')
+
+ax2.set_ylabel('Local PPI')
+
+# set title and x-axis label
+ax1.set_title('Cost of Living and Local PPI Index')
+ax1.set_xlabel('Countries')
+
+# display plot
+plt.show()
+Appendix 5
+
+# plot bar chart for country's proportion of age
+
+# plot x-axis and y-axis
+x = merged_df['Country']
+y = merged_df['Age 15 to 64 Years']
+
+# plot bar chart
+plt.bar(x, y)
+
+# add x and y labels
+plt.xlabel('Country')
+plt.ylabel('Age 15 to 64 Years')
+
+# plot title of chart
+plt.title('Proportion of population at Age 15 to 64 Years by Country')
+
+# plot output
+plt.show()
+# calculate overall mean of age structure in the world population
+mean_15to64 = round(age_structure['Age 15 to 64 Years'].mean(),2)
+
+# countries with proportion higher than mean proportion
+age_propabovemean = merged_df[merged_df['Age 15 to 64 Years'] > mean_15to64]
+
+# to product output of proportion of population age 15 to 64 above overall mean
+age_propabovemean
+Problem 3
+# modify existing dataframes by slicing the necessary columns
+australia_chains = australia_chains.loc[~australia_chains['Category'].isin(categories_exclude),
+                                        ['Chain',
+                                        'Category',
+                                        'Total Units',
+                                        'Sale Price']]
+
+# to obtain output after cleaning the category
+australia_chains
+# add Total Sales column by calculating total units x sale price
+australia_chains['Total Sales'] = australia_chains['Total Units'] * australia_chains['Sale Price']
+
+# to obtain output with new Total Sales column
+australia_chains
+# calculate total sales by chain using groupby from australia_chains dataframe
+total_sales_by_chain = australia_chains.groupby(australia_chains['Chain'], 
+                                                as_index=False)['Total Sales'].sum()
+
+# calculate proportion of sales by brand
+total_sales_by_chain['Proportion of Sales'] = total_sales_by_chain['Total Sales'] / total_sales_by_chain['Total Sales'].sum()
+
+# output on new dataframe
+total_sales_by_chain
+# create a new dataframe to have unique brands from distributor dataframe
+total_brands = distributor['brand'].unique()
+
+# to calculate the count of brands in the distributor dataframe
+total_brands = distributor['brand'].value_counts()
+
+# create dictionary based on brand and value count from distributor dataframe
+new_data = {
+    'Adidas': 435,
+    'Nike': 403,
+    'Reebok': 248,
+    'Adidas Originals': 108,
+    'Under Armour': 57,
+    'Puma': 50,
+    'Vans': 20,
+    'Umbro': 10,
+    'Skechers': 6,
+    'Fila': 2,
+    'Le Coq Sportif': 2,
+    'Converse': 2,
+    'Timberland': 1,
+    'New Balance': 1
+}
+
+# create new dataframe containing brand and count of brands
+brands = pd.DataFrame(list(new_data.items()), columns=['Brand', 'Count'])
+
+#print new dataframe 
+print(brands)
+# create a grouby to calculate the total units by brand and by category
+totals_by_brand_category = australia_chains.groupby(['Chain', 'Category'])['Total Units'].sum()
+
+# to produce the output from the new dataframe
+totals_by_brand_category
+Appendix 6
+
+# plot bar chart for country's proportion of age
+
+# input x-axis and y-axis information
+x = brands['Brand']
+y = brands['Count']
+
+# plot horizontal barchart
+plt.barh(x, y)
+
+# add x and y labels
+plt.xlabel('brand')
+plt.ylabel('Count')
+
+# to plot title of bar graph
+plt.title('Total Competitor Brands by count')
+
+# plot output
+plt.show()
